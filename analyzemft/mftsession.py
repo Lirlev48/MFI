@@ -8,6 +8,7 @@
 #
 # Date: May 2013
 #
+from analyzemft import mft
 
 VERSION = "v2.0.19"
 

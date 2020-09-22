@@ -16,6 +16,7 @@ from optparse import OptionParser
 
 import analyzemft.bitparse
 import analyzemft.mftutils
+from analyzemft import bitparse, mftutils
 
 
 def parse_record(raw_record, options):
